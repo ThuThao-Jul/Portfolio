@@ -1731,3 +1731,7 @@ input, select, textarea {
 	float: none;
     width: 100%;
 }
+
+.description{
+	font-size: x-small;
+}
